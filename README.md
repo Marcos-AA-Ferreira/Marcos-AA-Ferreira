@@ -12,12 +12,14 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ C# ](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whit)
 
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
@@ -28,11 +30,9 @@
 ## **GitHub Stats 📊**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcos-AA-Ferreira&theme=transparent&bg_color=000&border_color=800080&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcos-AA-Ferreira&bg_color=000&border_color=800080&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Marcos-AA-Ferreira&layout=compact&bg_color=000&border_color=800080&title_color=E94D5F&text_color=FFF)
-
 
 
 ## Minhas Contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Marcos-AA-Ferreira&theme=bear&background=000&border=800080&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Marcos-AA-Ferreira&theme=dark&border=800080&dates=FFF)](https://git.io/streak-stats)
 
