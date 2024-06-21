@@ -12,7 +12,7 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![ C# ](https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ C# para Jogos ](https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
